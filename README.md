@@ -37,3 +37,4 @@ int main() {
 <img width="1705" height="550" alt="image" src="https://github.com/user-attachments/assets/93f659b5-9fdc-4c70-84dc-b90b86e43f5b" />
 
 # RESULT:
+Thus the code is successfully executed
